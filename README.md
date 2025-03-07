@@ -1,6 +1,7 @@
 <div id="header" align="center">
- <img src="https://github.com/paweenachodpaseart/Classification-Model/blob/main/rain.jpg?raw=true"width="600"/>
+ <img src="https://github.com/paweenachodpaseart/Classification-Model/blob/main/rain.jpg?raw=true"width="800"/>
 </div>
+
 # Classification-Model
 Weather Forecasting Using Support Vector Machine (SVM)
 
