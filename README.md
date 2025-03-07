@@ -15,7 +15,7 @@ This project focuses on applying Machine Learning using Support Vector Machine (
 - Identified outliers using Z-score and Box-Plot
 - Applied data transformation to adjust data into a suitable format
 - Examined feature relationships
---🔹 After data cleaning:
+##### After data cleaning:
 - Remaining data: 94,626 samples and 4 key features
 
 #### Data Preparation for the Model
