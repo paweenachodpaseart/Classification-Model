@@ -15,7 +15,7 @@ This project focuses on applying Machine Learning using Support Vector Machine (
 - Identified outliers using Z-score and Box-Plot
 - Applied data transformation to adjust data into a suitable format
 - Examined feature relationships
-- 🔹 After data cleaning:
+🔹 After data cleaning:
 - Remaining data: 94,626 samples and 4 key features
 
 #### Data Preparation for the Model
@@ -37,7 +37,7 @@ This project focuses on applying Machine Learning using Support Vector Machine (
 - Linear Kernel: Train MSE = 0.0074, Test MSE = 0.0069
 - RBF Kernel: Train MSE = 0.0076, Test MSE = 0.0077
 - Polynomial Kernel: Train MSE = 0.0064, Test MSE = 0.0064
-- 🔹 Results:
+🔹 Results:
 - Polynomial Kernel performed the best, with the lowest MSE.
 - The model effectively predicts rain and snow.
 
