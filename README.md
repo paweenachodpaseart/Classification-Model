@@ -2,11 +2,47 @@
 Weather Forecasting Using Support Vector Machine (SVM)
 
 ### 📌 Project Overview 
-This project focuses on using Machine Learning with Support Vector Machine (SVM) to predict weather conditions based on temperature, humidity, air pressure, and wind speed, with the goal of accurately forecasting rain or snowfall.
+#### Background & Significance
+This project focuses on applying Machine Learning using Support Vector Machine (SVM) to forecast weather conditions based on temperature, humidity, air pressure, and wind speed. The goal is to accurately predict whether it will rain or snow.
 
-### 🎯 Objectives
-1. Develop a weather forecasting system: Use SVM to predict rain or snowfall based on temperature, humidity, air pressure, and wind speed data.
-2. Improve accuracy: Compare the performance of different kernels to find the best method for forecasting.
-3. Assist decision-making: Use the forecast data to prepare for potential weather conditions.
+#### Dataset
+Dataset size: 96,453 samples
+Number of features: 9 features
+Source: Kaggle Weather History Dataset
+
+#### Data Cleaning
+Checked for missing values
+Identified outliers using Z-score and Box-Plot
+Applied data transformation to adjust data into a suitable format
+Examined feature relationships
+🔹 After data cleaning:
+Remaining data: 94,626 samples and 4 key features
+
+#### Data Preparation for the Model
+Training and Testing Set split:
+Training Set: 66,238 samples
+Testing Set: 28,388 samples
+Data categories:
+Rain = 84,115 samples (88.89%)
+Snow = 10,511 samples (11.11%)
+#### Building the Support Vector Machine (SVM) Model
+Tested different SVM kernels, including:
+Linear Kernel
+RBF Kernel
+Polynomial Kernel (Degree 2 & 3)
+#### Model Evaluation
+Mean Squared Error (MSE) was used to measure accuracy:
+Linear Kernel: Train MSE = 0.0074, Test MSE = 0.0069
+RBF Kernel: Train MSE = 0.0076, Test MSE = 0.0077
+Polynomial Kernel: Train MSE = 0.0064, Test MSE = 0.0064
+🔹 Results:
+Polynomial Kernel performed the best, with the lowest MSE.
+The model effectively predicts rain and snow.
+
+#### Conclusion
+This project utilized SVM to forecast weather by predicting rain or snow.
+Data was properly cleaned and transformed before training the model.
+Polynomial Kernel (Degree 3) provided the best results.
+The findings can be used to enhance future weather forecasting accuracy
    
 ### 🛠️ Tool: Google Colaboratory(Python)
