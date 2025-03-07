@@ -2,7 +2,7 @@
 Weather Forecasting Using Support Vector Machine (SVM)
 
 ### 📌 Project Overview 
-#### Background & Significance
+#### -Background & Significance
 This project focuses on applying Machine Learning using Support Vector Machine (SVM) to forecast weather conditions based on temperature, humidity, air pressure, and wind speed. The goal is to accurately predict whether it will rain or snow.
 
 #### Dataset
