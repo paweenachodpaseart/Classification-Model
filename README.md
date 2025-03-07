@@ -41,7 +41,9 @@ This project focuses on applying Machine Learning using Support Vector Machine (
 - Polynomial Kernel performed the best, with the lowest MSE.
 - The model effectively predicts rain and snow.
 
-#### 7. Conclusion
+---
+
+### Conclusion
 - This project utilized SVM to forecast weather by predicting rain or snow.
 - Data was properly cleaned and transformed before training the model.
 - Polynomial Kernel (Degree 3) provided the best results.
