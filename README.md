@@ -6,7 +6,7 @@ Weather Forecasting Using Support Vector Machine (SVM)
 This project focuses on applying Machine Learning using Support Vector Machine (SVM) to forecast weather conditions based on temperature, humidity, air pressure, and wind speed. The goal is to accurately predict whether it will rain or snow.
 
 #### Dataset
-Dataset size: 96,453 samples
+Dataset size: 96,453 samples/
 Number of features: 9 features
 Source: Kaggle Weather History Dataset
 
