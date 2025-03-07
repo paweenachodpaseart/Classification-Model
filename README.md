@@ -47,7 +47,7 @@ This project focuses on applying Machine Learning using Support Vector Machine (
 
 ---
 
-### Conclusion
+### 📑Conclusion
 - This project utilized SVM to forecast weather by predicting rain or snow.
 - Data was properly cleaned and transformed before training the model.
 - Polynomial Kernel (Degree 3) provided the best results.
