@@ -1,5 +1,5 @@
 <div id="header" align="center">
- <img src="https://github.com/paweenachodpaseart/Classification-Model/blob/main/rain.jpg?raw=true"width="800"/>
+ <img src="https://github.com/paweenachodpaseart/Classification-Model/blob/main/rain.jpg?raw=true"width="900"/>
 </div>
 
 # Classification-Model
