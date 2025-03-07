@@ -1,5 +1,5 @@
 <div id="header" align="center">
- <img src="https://github.com/paweenachodpaseart/Classification-Model/blob/main/rain.jpg?raw=true"width="300"/>
+ <img src="https://github.com/paweenachodpaseart/Classification-Model/blob/main/rain.jpg?raw=true"width="600"/>
 </div>
 # Classification-Model
 Weather Forecasting Using Support Vector Machine (SVM)
